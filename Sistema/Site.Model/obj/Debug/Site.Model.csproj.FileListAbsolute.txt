@@ -1,0 +1,9 @@
+C:\Users\WRS\Documents\Visual Studio 2015\Projects\Sistema\Site.Model\bin\Debug\Site.Model.dll.config
+C:\Users\WRS\Documents\Visual Studio 2015\Projects\Sistema\Site.Model\bin\Debug\Site.Model.dll
+C:\Users\WRS\Documents\Visual Studio 2015\Projects\Sistema\Site.Model\bin\Debug\Site.Model.pdb
+C:\Users\WRS\Documents\Visual Studio 2015\Projects\Sistema\Site.Model\bin\Debug\EntityFramework.dll
+C:\Users\WRS\Documents\Visual Studio 2015\Projects\Sistema\Site.Model\bin\Debug\EntityFramework.xml
+C:\Users\WRS\Documents\Visual Studio 2015\Projects\Sistema\Site.Model\obj\Debug\Site.Model.csprojResolveAssemblyReference.cache
+C:\Users\WRS\Documents\Visual Studio 2015\Projects\Sistema\Site.Model\obj\Debug\Site.Model.dll
+C:\Users\WRS\Documents\Visual Studio 2015\Projects\Sistema\Site.Model\obj\Debug\Site.Model.pdb
+C:\Users\WRS\Documents\Visual Studio 2015\Projects\Sistema\Site.Model\bin\Debug\MySql.Data.dll
